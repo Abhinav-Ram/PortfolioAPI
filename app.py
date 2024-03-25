@@ -13,6 +13,11 @@ def load_json(file_path):
         return json.load(file)
 
 
+@api.route('/')
+def get_error():
+    return jsonify(load_json('about.json'))
+
+
 @api.route('/<endpoint>/')
 def get_data(endpoint):
     filename = f"{endpoint}.json"
