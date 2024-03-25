@@ -1,0 +1,32 @@
+[
+  {
+    "institution": "SSN College of Engineering",
+    "address": "Kalavakkam, Chennai, Tamil Nadu, India",
+    "qualification": "Undergraduate Degree (B.E., C.S.E.)",
+    "dates": {
+      "from": "Jun 2020",
+      "to": "N/A"
+    },
+    "performance": "8.66/10 (Cummulative Grade Point Average)"
+  },
+  {
+    "institution": "The Hindu Senior Secondary School",
+    "address": "Indira Nagar, Chennai, Tamil Nadu, India",
+    "qualification": "Secondary School (Grade 12)",
+    "dates": {
+      "from": "Apr 2018",
+      "to": "Mar 2020"
+    },
+    "performance": "95.4%"
+  },
+  {
+    "institution": "The Hindu Senior Secondary School",
+    "address": "Indira Nagar, Chennai, Tamil Nadu, India",
+    "qualification": "High School (Grade 10)",
+    "dates": {
+      "from": "Jun 2006",
+      "to": "Mar 2018"
+    },
+    "performance": "88%"
+  }
+]

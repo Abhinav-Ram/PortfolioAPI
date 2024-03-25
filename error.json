@@ -1,0 +1,12 @@
+{
+    "api_error": "Endpoint not found. Please check the URL path.",
+    "available_endpoints": {
+        "/api/": "Base Endpoint.",
+        "/api/about/": "Fetches information about the user's profile.",
+        "/api/contact/": "Fetches contact information.",
+        "/api/education/": "Fetches educational history.",
+        "/api/work/": "Fetches work experience.",
+        "/api/projects/": "Fetches project details.",
+        "/api/skillset/": "Fetches skillset information."
+    }
+}

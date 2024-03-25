@@ -1,0 +1,129 @@
+[
+  {
+    "title": "Customer Relationship Management",
+    "undertaken_for": "SDE Intern, Purple Cube Technologies",
+    "tech": "Python, Flask, SQLAlchemy, PostgreSQL, HTML, TailwindCSS with DaisyUI",
+    "dates": {
+      "from": "N/A",
+      "to": "N/A"
+    },
+    "tasks": [
+      "Lead Management Module: Implemented features for creating, editing, and searching leads and generating reports.",
+      "Customer Management Module: Developed functionalities for managing customer information, including contact details, and interactions.",
+      "Quote Management Module: Designed a system for creating and managing sales quotes, including tracking quote versions and integrating the quote data with enquiry numbers.",
+      "Project Management Module: Developed features for managing ongoing projects, including tracking milestones, expenses, and project-related documents."
+    ]
+  },
+  {
+    "title": "Multi-Modal Behavioral User Authentication",
+    "undertaken_for": "Bachelors Thesis Project",
+    "tech": "User and Entity Behavior Analytics (UEBA)",
+    "dates": {
+      "from": "N/A",
+      "to": "N/A"
+    },
+    "tasks": [
+      "A Low Infrastructure system developed to register and authenticate users based on their keystroke and mouse movements.",
+      "Intended for Office uses",
+      "Current ongoing work - Creating a model to integrate with frequently-used platforms such as Gmail"
+    ]
+  },
+  {
+    "title": "Project Sanjaya - Live Visual Assistant for Physics Lab",
+    "undertaken_for": "Internally Funded Project",
+    "tech": "Image Captioning, Natural Language Processing, IoT",
+    "dates": {
+      "from": "N/A",
+      "to": "N/A"
+    },
+    "tasks": [
+      "A Smart Image Captioning system designed to aid Visually Impaired students to carry out experiments in the Physics Lab."
+    ]
+  },
+  {
+    "title": "AI Based Chatbot to Answer FAQs",
+    "undertaken_for": "Smart India Hackathon",
+    "tech": "Natural Language Processing, Front-End Design",
+    "dates": {
+      "from": "N/A",
+      "to": "N/A"
+    },
+    "tasks": [
+      "Used Python NLTK to create a simple chat-bot model to answer FAQs directed at the AICTE (All India Council for Technical Education) Website",
+      "Deployed the chat-bot as a flask website"
+    ]
+  },
+  {
+    "title": "Federated Learning in Cell-Free Environments for Optimal UE-VBs Selection",
+    "undertaken_for": "Research Project",
+    "tech": "Federated Learning, Cell-Free Environments, LTE Simulations, NS3",
+    "dates": {
+      "from": "N/A",
+      "to": "N/A"
+    },
+    "tasks": [
+      "Investigated the application of federated learning algorithms in the context of cell-free networks",
+      "Utilized of the ns-3 simulator and LENA library to model LTE networks and emulate UE-VB selection scenarios",
+      "Performed data collection, performance metric evaluation (including SQI, data rate, and sum rate).",
+      "Project done (no paper published)"
+    ]
+  },
+  {
+    "title": "Canteen Management System",
+    "undertaken_for": "Sem VII, B.E., C.S.E.",
+    "tech": "Python, Flask, SQLAlchemy, SQLite, HTML, TailwindCSS with DaisyUI, JavaScript",
+    "dates": {
+      "from": "N/A",
+      "to": "N/A"
+    },
+    "tasks": [
+      "Developed a Automated Canteen system to track incoming orders",
+      "Implemented using Flask Backend and Tailwind CSS with a component library named DaisyUI",
+      "Login of Users and Canteen Staff",
+      "Create, edit menu items",
+      "Place orders",
+      "Order Tracking",
+      "Generate Bills"
+    ]
+  },
+  {
+    "title": "Spotify Revenue Predictor",
+    "undertaken_for": "Sem VI, B.E., C.S.E.",
+    "tech": "Machine Learning, Random Forests",
+    "dates": {
+      "from": "N/A",
+      "to": "N/A"
+    },
+    "tasks": [
+      "Implemented using Python with NumPy and the SciKitLearn library",
+      "Inputs an artist’s Spotify data, with country, revenue and number of streams as some of the features",
+      "Uses Random Forrest to estimate Total Revenue"
+    ]
+  },
+  {
+    "title": "ProductHuntDB",
+    "undertaken_for": "Sem IV, B.E., C.S.E.",
+    "tech": "Oracle SQL + JDBC",
+    "dates": {
+      "from": "N/A",
+      "to": "N/A"
+    },
+    "tasks": [
+      "An Oracle-based database for an online marketplace where products can either be uploaded by sellers for sale to customers or uploaded products can be purchased by customers from the sellers",
+      "Used entity-relationship (ER) concepts and SQL principles"
+    ]
+  },
+  {
+    "title": "Kanban Board",
+    "undertaken_for": "Sem III, B.E., C.S.E.",
+    "tech": "JAVA Core",
+    "dates": {
+      "from": "N/A",
+      "to": "N/A"
+    },
+    "tasks": [
+      "Developed a Workflow management system as a text-query-based program",
+      "Implemented using Core Java Principles and simple terminal based UI"
+    ]
+  }
+]
